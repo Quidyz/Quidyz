@@ -1,59 +1,67 @@
-<div align="center">
+<h1 align="center">🦆 quidyz / Backend Developer</h1>
 
-# 🦆 quidyz / Backend Developer
-
-</div>
-
-## Tech Stack
+###
 
 <div align="center">
-
-| | | | |
-|:-:|:-:|:-:|:-:|
-| ![Python](https://skillicons.dev/icons?i=python) | ![FastAPI](https://skillicons.dev/icons?i=fastapi) | ![Django](https://skillicons.dev/icons?i=django) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) |
-| Python | FastAPI | Django | PostgreSQL |
-| | | | |
-| ![Docker](https://skillicons.dev/icons?i=docker) | ![Redis](https://skillicons.dev/icons?i=redis) | ![Git](https://skillicons.dev/icons?i=git) | ![Linux](https://skillicons.dev/icons?i=linux) |
-| Docker | Redis | Git | Linux |
-| | | | |
-| ![SQLAlchemy](https://skillicons.dev/icons?i=sqlite) | ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) | ![Celery](https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white) |
-| SQLAlchemy | Kubernetes | RabbitMQ | Celery |
-
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" />
 </div>
 
----
-
-## GitHub Stats
+###
 
 <div align="center">
-
-[![quidyz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quidyz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/quidyz)
-
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
 </div>
+
+###
 
 <div align="center">
-
-[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=quidyz&theme=github-dark&hide_border=true&area=true)](https://github.com/quidyz)
-
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo" />
 </div>
 
----
+###
 
-## Pinned Projects
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=quidyz&theme=dark&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
 
-<div align="center">
+###
 
-[![tq-ws-proxy](https://github-readme-stats.vercel.app/api/pin/?username=quidyz&repo=tq-ws-proxy&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/quidyz/tq-ws-proxy)
-[![Your Repo](https://github-readme-stats.vercel.app/api/pin/?username=quidyz&repo=your-repo&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/quidyz/your-repo)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=quidyz&theme=dark&no-frame=true&no-bg=true&margin-w=4">
+</p>
 
-</div>
+###
 
----
-
-<div align="center">
-
-**Python Backend Developer** • Saint Petersburg, Russia
-
-[GitHub](https://github.com/quidyz)
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quidyz/quidyz/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quidyz/quidyz/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/quidyz/quidyz/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
